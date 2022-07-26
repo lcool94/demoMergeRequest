@@ -18,5 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 'nghia check'
 'v1_2020 change'
+'nghia update'
+'nghia update 2'
 
 
