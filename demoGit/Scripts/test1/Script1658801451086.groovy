@@ -21,5 +21,8 @@ import org.openqa.selenium.Keys as Keys
 'nghia update'
 'nghia update 2'
 "nghia update 5"
+'nghia update 2'
+"nghia update 5"
+
 
 
