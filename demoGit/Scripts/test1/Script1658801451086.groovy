@@ -17,12 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-'thay doi 1'
-<<<<<<< HEAD
-'branch Nghia'
-=======
 
-'anh'
 
-'sang'
->>>>>>> sang
